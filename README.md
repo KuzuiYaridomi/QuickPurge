@@ -15,8 +15,4 @@ It’s designed to be fast, safe, and memory-efficient — perfect for keeping y
 
 ---
 
-## 🛠️ Installation
-Clone the repository:
-```bash
-git clone https://github.com/yourname/QuickPurge.git
-cd QuickPurge
+
