@@ -1,0 +1,6 @@
+pysimplegui==4.60.5     # GUI
+pillow==11.3.0           # Image & thumbnail handling
+python-magic==0.4.27      # File type detection
+send2trash==1.8.3        # Safe deletion
+blurwindow==1.2.1         # Glass/translucent background
+ttkthemes==3.2.2          # Extra sleek widget themes

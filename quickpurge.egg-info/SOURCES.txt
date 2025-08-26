@@ -1,0 +1,17 @@
+setup.py
+quickpurge/__init__.py
+quickpurge/database.py
+quickpurge/exclusion_rules.py
+quickpurge/history.py
+quickpurge/safe_delete.py
+quickpurge/scanner.py
+quickpurge/thumbnail.py
+quickpurge/ui.py
+quickpurge/utils.py
+quickpurge.egg-info/PKG-INFO
+quickpurge.egg-info/SOURCES.txt
+quickpurge.egg-info/dependency_links.txt
+quickpurge.egg-info/top_level.txt
+tests/test_database.py
+tests/test_safe_delete.py
+tests/test_scanner.py
