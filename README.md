@@ -15,4 +15,8 @@ It’s designed to be fast, safe, and memory-efficient — perfect for keeping y
 
 ---
 
+# DIRECT QUICKPURGE APP DOWNLOAD LINK
+
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/65b499484692b48d770597bc243d0ee5dfb136d6_quickpurge.exe
+
 
